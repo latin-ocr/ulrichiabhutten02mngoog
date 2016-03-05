@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./ulrichiabhutten02mngoog_0131.png"; bbox 0 0 731 1346; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 220 404 457 500">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 220 404 457 500">
+     <span class='ocr_line' id='line_1_1' title="bbox 324 404 350 426; baseline -0.038 0"><span class='ocrx_word' id='word_1_1' title='bbox 324 404 350 426; x_wconf 85' lang='lat' dir='ltr'>A.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 220 474 457 500; baseline -0.004 0"><span class='ocrx_word' id='word_1_2' title='bbox 220 474 313 500; x_wconf 45' lang='lat' dir='ltr'>uffici</span> <span class='ocrx_word' id='word_1_3' title='bbox 336 482 457 500; x_wconf 80' lang='lat' dir='ltr'>Hutteni</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 325 541 576 563">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 325 541 576 563">
+     <span class='ocr_line' id='line_1_3' title="bbox 325 541 576 563; baseline 0.004 -7"><span class='ocrx_word' id='word_1_4' title='bbox 325 546 333 556; x_wconf 74' lang='lat' dir='ltr'>a</span> <span class='ocrx_word' id='word_1_5' title='bbox 338 541 348 557; x_wconf 79' lang='lat' dir='ltr'>d</span> <span class='ocrx_word' id='word_1_6' title='bbox 565 554 576 563; x_wconf 77' lang='lat'><em>=</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 123 596 567 682">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 123 596 567 682">
+     <span class='ocr_line' id='line_1_4' title="bbox 123 596 567 626; baseline 0.002 -8"><span class='ocrx_word' id='word_1_7' title='bbox 123 596 280 619; x_wconf 80' lang='lat' dir='ltr'>Arnoldum</span> <span class='ocrx_word' id='word_1_8' title='bbox 315 596 567 626; x_wconf 76' lang='lat' dir='ltr'>Glaub&#39;ergerum</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 154 659 528 682; baseline 0 -7"><span class='ocrx_word' id='word_1_9' title='bbox 154 660 324 676; x_wconf 64' lang='lat' dir='ltr'>jurisconsultum</span> <span class='ocrx_word' id='word_1_10' title='bbox 340 659 528 682; x_wconf 60' lang='lat' dir='ltr'>Francosurtnnuq</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 253 715 426 740">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 253 715 426 740">
+     <span class='ocr_line' id='line_1_6' title="bbox 253 715 426 740; baseline -0.006 -6"><span class='ocrx_word' id='word_1_11' title='bbox 253 715 426 740; x_wconf 71' lang='lat' dir='ltr'>Epistola.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
